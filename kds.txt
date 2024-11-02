@@ -1,5 +1,5 @@
 ﻿
-🎬电影频道,#genre#
+电影频道，#流派#
 
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
@@ -8,11 +8,11 @@
 邵氏影院,http://mitv.ts138.top/douyu/4246519
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0?$超清
-CCTV6,http://1.24.190.98:10089/hls/6/index.m3u8
+CCTV6，http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0?$超清
+CCTV6，http://1.24.190.98:10089/hls/6/index.m3u8
 CCTV6,http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
-CCTV6,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV6，http://112.123.206.32:808/hls/7/index.m3u8
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 
 影迷电影,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=0650&tk=e347d250ab70
@@ -21,12 +21,12 @@ CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aa
 
 动作电影,http://p.ytelc.com/169l/0/aikan.php?id=chcdz
 
-家庭影院,http://p.ytelc.com/169l/0/aikan.php?id=chcjt
-爆谷台,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
+家庭影院，http://p.ytelc.com/169l/0/aikan.php?id=chcjt
+爆谷台,http://223.244.26.190:8082/now包谷.盗源者死全家/易发TV/hls.m3u8
 爆谷台,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
-龍華電影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
 PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 1905电影,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=0655&tk=e347d250ab70
@@ -35,34 +35,34 @@ PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 1905电影国外,http://kkk.jjjj.jiduo.me/api.php?n=ttt&id=0654&tk=e347d250ab70
 1905电影国外,http://xxw.me0.cn/1905dy.php?id=1905b
 
-动作电影2,http://cfss.cc/cdn/hy/11602077.flv
+动作电影2，http://cfss.cc/cdn/hy/11602077.flv
 
-🐠豆瓣高分,http://maomao.kandiantv.cn/douyu1.php?id=8770422
-🐠豆瓣高分,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
-🐠豆瓣高分,http://mitv.ts138.top/douyu/8770422
+豆瓣高分,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+豆瓣高分,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
+豆瓣高分,http://mitv.ts138.top/douyu/8770422
 
-🐠译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
-🐠译制国语,http://huanqiuzhibo.cn/manifest/douyu.php?id=2436390
-🐠译制国语,http://mitv.ts138.top/douyu/2436390
-
-
-🐠漫威剧情,http://maomao.kandiantv.cn/douyu1.php?id=6140589
-🐠漫威剧情,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
-🐠漫威剧情,http://mitv.ts138.top/douyu/6140589
-
-🐠霍格沃茨,http://maomao.kandiantv.cn/douyu1.php?id=8814650
-🐠霍格沃茨,http://huanqiuzhibo.cn/manifest/douyu.php?id=8814650
-🐠霍格沃茨,http://mitv.ts138.top/douyu/8814650
-
-🐠变种人片,http://maomao.kandiantv.cn/douyu1.php?id=9651304
-🐠变种人片,http://huanqiuzhibo.cn/manifest/douyu.php?id=9651304
-🐠变种人片,http://159.75.85.63:35455/douyu/9651304
-🐠变种人片,http://zzy789.xyz/douyu1.php?id=9651304
-🐠变种人片,http://mitv.ts138.top/douyu/9651304
+译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+译制国语,http://huanqiuzhibo.cn/manifest/douyu.php?id=2436390
+译制国语,http://mitv.ts138.top/douyu/2436390
 
 
-🐠鱼宝恐怖,http://maomao.kandiantv.cn/douyu1.php?id=1165374
-🐠鱼宝恐怖,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
+漫威剧情,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+漫威剧情,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
+漫威剧情,http://mitv.ts138.top/douyu/6140589
+
+霍格沃茨,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+霍格沃茨，http://huanqiuzhibo.cn/manifest/douyu.php?id=8814650
+霍格沃茨，http://mitv.ts138.top/douyu/8814650
+
+变种人片,http://maomao.kandiantv.cn/douyu1.php?id=9651304
+变种人片，http://huanqiuzhibo.cn/manifest/douyu.php?id=9651304
+变种人片，http://159.75.85.63:35455/douyu/9651304
+变种人片，http://zzy789.xyz/douyu1.php?id=9651304
+变种人片,http://mitv.ts138.top/douyu/9651304
+
+
+鱼宝恐怖,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+鱼宝恐怖,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
 🐠鱼宝恐怖,http://159.75.85.63:35455/douyu/1165374
 🐠鱼宝恐怖,http://zzy789.xyz/douyu1.php?id=1165374
 🐠鱼宝恐怖,http://mitv.ts138.top/douyu/1165374
